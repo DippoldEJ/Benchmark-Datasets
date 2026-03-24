@@ -14,7 +14,7 @@ Overview Study Cases
 Text
 <br />
 
-| Case | Image Example| Description|
+| Case | Image 1 Example|  Image 6 Example |Description|
 |------|---------------|------------|------------|
 |Blur Bikes| <img width="250" height="175" alt="Image" src="https://github.com/user-attachments/assets/6ddf6411-86c1-4680-b76c-65fc70176768" />| <img width="250" height="175" alt="Image" src="https://github.com/user-attachments/assets/a6d91eb7-66d8-4ea7-9b69-af63d57ead8f" />|.ppm file <br /> 700 x 1000 x 3 uint8|
 
