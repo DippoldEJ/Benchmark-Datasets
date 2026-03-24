@@ -23,7 +23,7 @@ Text
 |Zoom and Rotation Bark| <img width="380" height="250" alt="Image" src="https://github.com/user-attachments/assets/97534807-e35f-438a-8f48-9b5c1b948eed" />|.ppm file <br /> 512 x 765 x 3 uint8|
 |Zoom and Rotation Boat| <img width="425" height="340" alt="Image" src="https://github.com/user-attachments/assets/ff4fc0e9-a553-46f4-9fc6-2808cd0fee69" />|.pgm file <br /> 680 x 850 uint8|
 |Light Leuven| <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/f8963f95-9bb8-4c24-a546-11d52b1aa8a9" />|.ppm file <br /> 600 x 900 x 3 uint8|
-|JPEG Compresstion UBC| <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/9caa720e-fdbe-4327-b87a-0e38e673fa73" />|.ppm file <br /> 640 x 800 x 3 uint8|
+|JPEG Compresstion UBC| <img width="400" height="320" alt="Image" src="https://github.com/user-attachments/assets/afb2e884-1fc1-4ff7-b152-afe12a87dcdd" />|.ppm file <br /> 640 x 800 x 3 uint8|
 <br />
 
 References
