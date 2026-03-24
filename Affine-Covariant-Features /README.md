@@ -17,13 +17,13 @@ Text
 | Case | Image Example| Description|
 |------|---------------|------------|
 |Blur Bikes| Img|.ppm file <br /> 700 x 1000 x 3 uint8|
-|Blur Trees| Img|Text|
-|Viewpoint Graf| Img|Text|
-|ViewPoint Wall| Img|Text|
-|Zoom and Rotation Bark| Img| .ppm file <br /> 512 x 765 x 3 uint8|
-|Zoom and Rotation Boat| Img|.ppm file <br /> 680 x 850 uint8|
-|Light Cars| Img|Text|
-|JPEG Compresstion Building| Img|Text|
+|Blur Trees| Img|.ppm file <br /> 700 x 1000 x 3 uint8|
+|Viewpoint Graf| Img|.ppm file <br /> 640 x 800 x uint8|
+|ViewPoint Wall| Img|.ppm file <br /> 700 x 1000 x 3 uint8|
+|Zoom and Rotation Bark| Img|.ppm file <br /> 512 x 765 x 3 uint8|
+|Zoom and Rotation Boat| Img|.pgm file <br /> 680 x 850 uint8|
+|Light Leuven| Img|.ppm file <br /> 600 x 900 x 3 uint8|
+|JPEG Compresstion UBC| Img|.ppm file <br /> 640 x 800 x 3 uint8|
 <br />
 
 References
