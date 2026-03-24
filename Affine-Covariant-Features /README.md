@@ -7,7 +7,7 @@ Affine Covariant Features Dataset
 -----------------
 The dataset consits of 8 study cases, each including 5 images with homograpy matrix of each pair (img1-img2, img1-img3, ... ). The 8 study cases covering different scene content and different manipulations. 
 
-Deeper Explanation
+
 
 Dowload Link: https://www.robots.ox.ac.uk/~vgg/research/affine/#software/
 
