@@ -16,12 +16,12 @@ Text
 
 | Case | Image Example| Description|
 |------|---------------|------------|
-|Blur Bikes| Img|.ppm file <br /> 700 x 1000 x3 uint8|
+|Blur Bikes| Img|.ppm file <br /> 700 x 1000 x 3 uint8|
 |Blur Trees| Img|Text|
 |Viewpoint Graf| Img|Text|
 |ViewPoint Wall| Img|Text|
-|Zoom and Rotation Bark| Img| .ppm file <br /> 512 x 765 x3|
-|Zoom and Rotation Ship| Img|Text|
+|Zoom and Rotation Bark| Img| .ppm file <br /> 512 x 765 x 3 uint8|
+|Zoom and Rotation Boat| Img|.ppm file <br /> 680 x 850 uint8|
 |Light Cars| Img|Text|
 |JPEG Compresstion Building| Img|Text|
 <br />
