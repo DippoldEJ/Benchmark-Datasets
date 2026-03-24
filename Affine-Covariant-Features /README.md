@@ -28,7 +28,8 @@ Text
 
 References
 ----------------
-Text 
+Mikolajczyk, K., Tuytelaars, T., Schmid, C., Zisserman, A., Matas, J., Schaffalitzky, F., Kadir, T., Van Gool, L., 2005. A Comparison of Affine Region Detectors. International Journal of Computer Vision 65, 43-72.
+ 
 
 
 
