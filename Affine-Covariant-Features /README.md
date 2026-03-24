@@ -20,7 +20,7 @@ Text
 |Blur Trees| Img|Text|
 |Viewpoint Graf| Img|Text|
 |ViewPoint Wall| Img|Text|
-|Zoom and Rotation Bark| Img|Text|
+|Zoom and Rotation Bark| Img| .ppm file <br /> 512 x 765 x3|
 |Zoom and Rotation Ship| Img|Text|
 |Light Cars| Img|Text|
 |JPEG Compresstion Building| Img|Text|
@@ -29,4 +29,11 @@ Text
 References
 ----------------
 Text 
+
+
+
+
+
+
+
 
