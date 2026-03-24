@@ -16,7 +16,7 @@ Text
 
 | Case | Image Example| Description|
 |------|---------------|------------|
-|Blur Bikes| Img|Text|
+|Blur Bikes| Img|.ppm file <br /> 700 x 1000 x3 uint8|
 |Blur Trees| Img|Text|
 |Viewpoint Graf| Img|Text|
 |ViewPoint Wall| Img|Text|
